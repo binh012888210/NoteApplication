@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">NotepadOffical</string>
+    <string name="activity_main_app_full_name">NotepadOfficial Application</string>
+    <string name="firstStudentInfo">16520092 - Luc Thien Binh</string>
+    <string name="secondStudentInfo">16520422 - Bui Gia Hoa</string>
+
+    <string name="title_notes">Notes</string>
+    <string name="title_todolist">Todolist</string>
+    <string name="title_notes_photo">Notes photo</string>
+
+    <string name="title_share">share</string>
+    <string name="menu_item_add">Add</string>
+    <string name="menu_item_about_app_1">This App is created for subjects: Introduction To Mobile Applications. \n</string>
+    <string name="menu_item_about_app_2">Guided by Instructor: Phan Nguyet Minh </string>
+    <string name="menu_item_about_app_3">Copyright UIT-VNU 2018 </string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="this_is_a_todo_activity">this_is_a_todo_activity</string>
+
+    <string name="todo">todo</string>
+    <string name="txt_title">Title</string>
+    <string name="txt_note">Note</string>
+    <string name="btn_ok">Ok</string>
+    <string name="btn_delete">Delete</string>
+
+    <string name="txt_activity">ENTER AN ACTIVITY</string>
+    <string name="btn_add">ADD</string>
+
+    <string name="title_take_photo">Take photo</string>
+    <string name="title_choose_image">Choose image</string>
+    <string name="todo_edit_photoshoot">TODO</string>
+    <string name="todo_photoshoot">TODO</string>
+
+    <string name="txt_title_photoshoot">Title</string>
+    <string name="txt_note_photoshoot">Note</string>
+    <string name="btn_save_photoshoot">Save</string>
+    <string name="btn_delete_photoshoot">Delete</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_search_title">Search Title</string>
+</resources>
